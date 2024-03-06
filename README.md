@@ -6,5 +6,5 @@ The informations that were scraped from the website are numbers of:
 - "Zatrzymani nietrzeźwi kierujący" - Arrested drunk drivers  
 - "Wypadki drogowe" - Traffic accidents  
 - "Zabici w wypadkach" - Killed in accidents  
-- "Ranni w wypadkach" - Injured in accidents
+- "Ranni w wypadkach" - Injured in accidents  
 for every day between 2016-01-31 and 2024-03-05  
